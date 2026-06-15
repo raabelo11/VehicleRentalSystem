@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/VehicleRental.Application/VehicleRental.Application.csproj" Id="f8f53d48-20b4-49f2-8e89-0cb35796f68b" />
+  <Project Path="src/VehicleRental.Domain/VehicleRental.Domain.csproj" Id="7cfa8132-e79a-462a-a36b-eadd0cd21d5e" />
+  <Project Path="src/VehicleRental.Infrastructure/VehicleRental.Infrastructure.csproj" Id="34b478b4-3254-475b-9e86-7c46ae047e1a" />
+  <Project Path="src/VehicleRentalSystem.Api/VehicleRentalSystem.Api.csproj" />
+</Solution>
